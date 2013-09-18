@@ -1,0 +1,11 @@
+To install the simulator program:
+1. Download the program.
+2. In terminal, type cd <simulator location>, to make it current directory.
+3. Type "make" or "make simulator", quotes for clarity.(I mean type without the quotes)
+4. This will make an executable named simulator in your current directory.
+5. Now you can execute it with, ./simulator .
+6. Good Luck.
+
+NOTE : 
+
+
